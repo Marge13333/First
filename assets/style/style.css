@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+a{
+    text-decoration: none;
+}
+ul{
+    list-style-type: none;
+}
+header{
+    margin: auto;
+    
+}
+.nav_bar{
+    padding-top: 40px;
+    padding-left: 240px;
+    height: 385px;
+    background-color: #0020F4;
+   
+    
+    
+}
+.nav li{
+    display: inline-block;
+}
+nav a{
+    color: #FFFFFF;
+    font-size: 16px;
+}
+.main_img{
+    max-width: 1200px;
+    width: 100%;
+    margin-top: auto;
+    object-fit: cover;
+    
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+   
+}
